@@ -26,9 +26,9 @@ const P = styled.p`
   color: aliceblue;
 `;
 const BUTTON = styled.button`
-  width: 75px;
-  height: 38px;
-  font-size: 24px;
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
 `;
 function App() {
   const { data: todos, error, loading } = useSelector((state) => state);
