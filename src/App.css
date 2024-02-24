@@ -9,7 +9,7 @@ html {
 .App > .card {
   position: absolute;
   top: 240px;
-  left: 113px;
+  left: 106px;
   z-index: -99;
 }
 .Loader {
